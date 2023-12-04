@@ -1,6 +1,4 @@
 INCLUDE Proto.inc
-
-
 .data
 
 .code

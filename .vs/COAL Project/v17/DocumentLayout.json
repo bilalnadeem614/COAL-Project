@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5100DF5-2262-4501-8F0F-2EF96DCBBE40}|COAL Project\\COAL Project.vcxproj|E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5100DF5-2262-4501-8F0F-2EF96DCBBE40}|COAL Project\\COAL Project.vcxproj|solutionrelative:COAL Project\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5100DF5-2262-4501-8F0F-2EF96DCBBE40}|COAL Project\\COAL Project.vcxproj|E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\instrc.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5100DF5-2262-4501-8F0F-2EF96DCBBE40}|COAL Project\\COAL Project.vcxproj|solutionrelative:COAL Project\\instrc.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5100DF5-2262-4501-8F0F-2EF96DCBBE40}|COAL Project\\COAL Project.vcxproj|E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\endgm.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5100DF5-2262-4501-8F0F-2EF96DCBBE40}|COAL Project\\COAL Project.vcxproj|solutionrelative:COAL Project\\endgm.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5100DF5-2262-4501-8F0F-2EF96DCBBE40}|COAL Project\\COAL Project.vcxproj|E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\game.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5100DF5-2262-4501-8F0F-2EF96DCBBE40}|COAL Project\\COAL Project.vcxproj|solutionrelative:COAL Project\\game.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5100DF5-2262-4501-8F0F-2EF96DCBBE40}|COAL Project\\COAL Project.vcxproj|E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\Proto.inc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5100DF5-2262-4501-8F0F-2EF96DCBBE40}|COAL Project\\COAL Project.vcxproj|solutionrelative:COAL Project\\Proto.inc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "endgm.asm",
+              "DocumentMoniker": "E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\endgm.asm",
+              "RelativeDocumentMoniker": "COAL Project\\endgm.asm",
+              "ToolTip": "E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\endgm.asm",
+              "RelativeToolTip": "COAL Project\\endgm.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-04T06:35:58.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game.asm",
+              "DocumentMoniker": "E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\game.asm",
+              "RelativeDocumentMoniker": "COAL Project\\game.asm",
+              "ToolTip": "E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\game.asm",
+              "RelativeToolTip": "COAL Project\\game.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-04T06:35:59.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "instrc.asm",
+              "DocumentMoniker": "E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\instrc.asm",
+              "RelativeDocumentMoniker": "COAL Project\\instrc.asm",
+              "ToolTip": "E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\instrc.asm",
+              "RelativeToolTip": "COAL Project\\instrc.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-04T06:35:59.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\main.asm",
+              "RelativeDocumentMoniker": "COAL Project\\main.asm",
+              "ToolTip": "E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\main.asm",
+              "RelativeToolTip": "COAL Project\\main.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-04T06:35:59.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proto.inc",
+              "DocumentMoniker": "E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\Proto.inc",
+              "RelativeDocumentMoniker": "COAL Project\\Proto.inc",
+              "ToolTip": "E:\\COAL (computer organization and assembly languages)\\project\\COAL-Project\\COAL Project\\Proto.inc",
+              "RelativeToolTip": "COAL Project\\Proto.inc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-04T06:35:59.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
